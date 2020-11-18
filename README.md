@@ -1,5 +1,5 @@
-<script src="https://bonatoc.github.io/epv_assets/scripts.js">
-<style src="https://bonatoc.github.io/epv_assets/styles.css">
+<script src="https://bonatoc.github.io/epv_assets/scripts.js"></script>
+<link href="https://bonatoc.github.io/epv_assets/styles.css">
 
 
 
