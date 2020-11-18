@@ -78,6 +78,9 @@ body{
 h2 {
     margin-top: 2rem;
     font-size: 1.6rem;
+    padding-bottom: 1rem;
+    background: none;
+    border-bottom: 1px solid #999;
 } 
 
 h3 {
