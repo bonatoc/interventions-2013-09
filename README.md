@@ -94,6 +94,7 @@ padding-top: 0.3rem;
 }
 
 a{
+color:#0c93e4;
 text-decoration: underline;
 }
 
