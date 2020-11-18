@@ -1,9 +1,3 @@
-
-<link href="https://bonatoc.github.io/epv_assets/styles.css">
-
-
-
-
 # Manuel des Ventes de l'EPV : Interventions Christian Bonato
 
 ---
@@ -43,4 +37,67 @@
 
 ---
 
-<script src="https://bonatoc.github.io/epv_assets/scripts.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+<script>
+  
+  $(document).ready(function(){
+  
+$('a').attr('target','_blank');
+  
+// force PDF Files to open in new window
+    $('a[href$=".pdf"]').attr('target', '_blank');
+  });
+  
+</script>
+
+<style>
+body{
+  font-size: 1.15rem;
+  }
+  
+  .inner{
+      max-width: 75vw;
+  }
+  
+  h1 {
+    margin-top: 3rem;
+    font-size: 2rem;
+}  
+
+h2 {
+    margin-top: 2rem;
+    font-size: 1.6rem;
+} 
+
+h3 {
+    margin-top: 2rem;
+    font-size: 1.2rem;
+} 
+
+p{
+  margin-top: 2.6rem;
+  font-size:1.2rem;
+  line-height: 2.2rem;
+  }
+
+li{
+padding-top: 0.3rem;
+}
+
+a:visited {
+  color: purple;
+}
+
+#header_wrap{
+display:none;
+}
+
+#main_content_wrap{
+padding-bottom: 6rem;
+}
+
+#footer_wrap{
+display:none;
+}
+</style>
