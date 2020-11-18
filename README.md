@@ -59,6 +59,10 @@ body{
   .inner{
       max-width: 75vw;
   }
+  
+  thead, tr:nth-child(3){
+      background: white;
+  }
  
  th {
     font-family: inherit;
