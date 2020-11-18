@@ -80,9 +80,21 @@ p{
   font-size:1.2rem;
   line-height: 2.2rem;
   }
+  
+ hr {
+    height: initial;
+    margin-bottom: 0.5rem;
+    margin-top: 2rem;
+    border: 1px solid #999;
+    background: none;
+}
 
 li{
 padding-top: 0.3rem;
+}
+
+a{
+text-decoration: underline;
 }
 
 a:visited {
