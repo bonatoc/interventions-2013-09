@@ -59,7 +59,17 @@ body{
   .inner{
       max-width: 75vw;
   }
-  
+ 
+ th {
+    font-family: inherit;
+    padding: 1rem;
+    background: none;
+    color: #373737;
+    padding: 0.85rem;
+    border: 1px solid #373737;
+    font-weight: 700;
+}
+ 
   h1 {
     margin-top: 3rem;
     font-size: 2rem;
