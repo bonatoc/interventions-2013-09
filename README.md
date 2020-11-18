@@ -60,7 +60,7 @@ body{
       max-width: 75vw;
   }
   
-  thead, tr:nth-child(3){
+  thead, tr:nth-child(2){
       background: white;
   }
  
