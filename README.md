@@ -73,6 +73,15 @@ body{
     border: 1px solid #373737;
     font-weight: 700;
 }
+
+strong{
+font-weight: normal !important;
+}
+
+tbody{
+    font-weight: 700 !important;
+    color:black;
+}
  
   h1 {
     margin-top: 3rem;
