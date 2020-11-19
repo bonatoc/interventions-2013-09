@@ -62,6 +62,7 @@ body{
   
   thead, tr:nth-child(2){
       background: white;
+      font-weight: initial !important;
   }
  
  th {
@@ -71,7 +72,7 @@ body{
     color: #373737;
     padding: 0.85rem;
     border: 1px solid #373737;
-    font-weight: 700;
+    font-weight: 700 !important;
 }
 
 strong{
