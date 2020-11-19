@@ -72,7 +72,7 @@ body{
     color: #373737;
     padding: 0.85rem;
     border: 1px solid #373737;
-    font-weight: 700 !important;
+      font-weight: initial !important;
 }
 
 strong{
@@ -97,6 +97,7 @@ h2 {
     background: none;
     border-bottom: 1px solid #999;
     color: #990000;
+    font-weight: 700 !important;
 } 
 
 h3 {
