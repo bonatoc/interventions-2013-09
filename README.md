@@ -100,6 +100,11 @@ h2 {
     font-weight: 700 !important;
 } 
 
+h2 > strong{
+    font-weight: 700 !important;
+}
+
+
 h3 {
     margin-top: 2rem;
     font-size: 1.2rem;
